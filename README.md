@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S3rgK
+- 👋 Hi!
 - 👀 Data Science, Big Data, NLP, Legal Tech, Social and Political Sciences
 - 🌱 Always learning
 - DA/BI
